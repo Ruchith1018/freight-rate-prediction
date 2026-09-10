@@ -1,0 +1,8 @@
+{
+  "mae_usd": 131.90817138401601,
+  "mape_pct": 5.916269994368852,
+  "r2": 0.8382050461988364,
+  "n_holdout_rows": 7294,
+  "baseline_distance_only_mae_usd": 283.9075024440616,
+  "baseline_distance_only_mape_pct": 12.076886880023373
+}
